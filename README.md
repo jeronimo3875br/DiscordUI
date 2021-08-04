@@ -1,6 +1,6 @@
 # discord-ui
 
-![screenshot]("https://github.com/jeronimo3875br/DiscordUI/blob/master/result.jpg")
+![screenshot](https://github.com/jeronimo3875br/DiscordUI/blob/master/result.jpg)
 
 ## Project setup
 ```
