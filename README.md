@@ -1,6 +1,7 @@
 # discord-ui
 
 ![screenshot](https://github.com/jeronimo3875br/DiscordUI/blob/master/result.jpg)
+You can test on: https://gjeronimo-discord.netlify.app/
 
 ## Project setup
 ```
@@ -21,6 +22,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
